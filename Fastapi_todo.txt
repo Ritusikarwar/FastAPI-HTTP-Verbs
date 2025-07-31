@@ -1,0 +1,12 @@
+1. Routers      practical neeeded
+2. validation
+3. Authrization
+4. Authentiocation
+5. TWT token    practical needed
+
+
+create api using flask
+
+"connect api with mysql and give some data in a table through 
+my sql apis should work well with sql connection as well"
+
